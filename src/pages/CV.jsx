@@ -3,16 +3,6 @@ import ClickSpark from '../components/ClickSpark.jsx'
 import ComicButton from '../components/ComicButton.jsx'
 
 function CV() {
-  const handleDownloadCV = () => {
-    // Créer un lien temporaire pour télécharger le CV
-    const link = document.createElement('a')
-    link.href = '/CV_Etienne_Gaumery.pdf'
-    link.download = 'CV_Etienne_Gaumery.pdf'
-    document.body.appendChild(link)
-    link.click()
-    document.body.removeChild(link)
-  }
-
   return (
     <div className="min-h-screen bg-white py-8 px-4">
       <div className="max-w-4xl mx-auto">
@@ -27,10 +17,13 @@ function CV() {
             extraScale={1.1}
           >
             <ComicButton
-              onClick={handleDownloadCV}
+              as="a"
+              href="https://cv-etienne.vercel.app"
+              target="_blank"
+              rel="noopener noreferrer"
               className="blue"
             >
-              📄 Télécharger le CV PDF
+              📄 Voir mon CV en ligne
             </ComicButton>
           </ClickSpark>
         </div>
