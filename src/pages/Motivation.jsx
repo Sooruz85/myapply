@@ -11,38 +11,30 @@ function Motivation() {
         </div>
 
         <div className="bg-white rounded-lg shadow-lg p-8 md:p-12">
-          <div className="prose prose-lg max-w-none">
-            <p className="text-gray-700 leading-relaxed mb-6">
-              Bonjour à toute l'équipe Variegata,
+          <div className="prose prose-lg max-w-none text-gray-700">
+            <p className="mb-6">
+              Bonjour,
             </p>
 
-            <p className="text-gray-700 leading-relaxed mb-6">
-              Curieux, créatif et sensible à tout ce qui touche à la nature et à l'image, je suis actuellement en reconversion dans le numérique via la Digital School. J'ai amorcé ce virage l'an dernier avec une première formation au Wagon, où j'ai découvert les bases du développement web et des outils digitaux.
+            <p className="mb-6">
+              Très curieux, rigoureux et attiré par la communication interne et le travail d'équipe, je suis actuellement en reconversion vers les métiers du numérique et de la gestion de projet via la Digital School. J'ai commencé ce parcours l'an dernier avec une formation au Wagon Bordeaux, et je poursuis aujourd'hui une spécialisation qui mêle outils digitaux, communication et organisation.
             </p>
 
-            <p className="text-gray-700 leading-relaxed mb-6">
-              Installé à Bordeaux depuis plusieurs années, j'y ai fondé une petite galerie spécialisée dans les peintres voyageurs. Ce projet, que je fais vivre notamment à travers les réseaux sociaux, m'a donné le goût de la communication visuelle, des contenus bien pensés et des histoires qui ont du sens.
+            <p className="mb-6">
+              Mon parcours est un peu atypique : j'ai travaillé dans le monde de l'art, fondé une galerie à Bordeaux, et j'ai toujours aimé structurer les idées, rendre les contenus clairs et faire avancer les projets. Ce que je recherche aujourd'hui, c'est un environnement concret et bien organisé, où je peux contribuer de façon utile et collective.
             </p>
 
-            <p className="text-gray-700 leading-relaxed mb-6">
-              Mon parcours est un peu à part, mais il m'a toujours poussé à créer du lien entre les gens et les projets. Que ce soit via ma galerie ou dans mes expériences passées, j'aime valoriser ce qui mérite de l'être, raconter des choses qui touchent et contribuer à des projets concrets.
+            <p className="mb-6">
+              L'offre que vous proposez à la Direction Exploitation TGV me parle vraiment : à la fois pour son côté terrain et coordination, et pour les missions liées à la communication. Je serais ravi de participer à vos newsletters, forums métiers ou outils de suivi, et d'apporter mes idées pour rendre tout ça encore plus fluide.
             </p>
 
-            <p className="text-gray-700 leading-relaxed mb-6">
-              Aujourd'hui, je cherche une alternance où je pourrais mettre tout ça en pratique : création de contenu, animation des réseaux, identité de marque… Le tout dans une entreprise à taille humaine, ancrée dans une démarche responsable. Votre proposition correspond pleinement à ce que je cherche.
-            </p>
-
-            <p className="text-gray-700 leading-relaxed mb-6">
-              Merci pour votre attention. Si mon profil et ma démarche résonnent avec vos besoins, je serais ravi d'échanger plus en détail. Au plaisir de discuter prochainement.
+            <p className="mb-6">
+              Je suis disponible dès septembre, pour une alternance de 16 mois. Si mon profil et ma démarche résonnent avec vos besoins, je serais heureux d'en discuter avec vous.
             </p>
 
             <div className="mt-8 pt-6 border-t border-gray-200">
-              <p className="text-gray-700 leading-relaxed mb-2">
-                Bien cordialement,
-              </p>
-              <p className="text-gray-900 font-semibold text-lg">
-                Etienne Gaumery
-              </p>
+              <p className="mb-2">Bien à vous,</p>
+              <p className="text-gray-900 font-semibold text-lg">Etienne Gaumery</p>
             </div>
           </div>
         </div>
@@ -70,4 +62,5 @@ function Motivation() {
 }
 
 export default Motivation
+
 
