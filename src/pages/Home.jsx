@@ -27,7 +27,8 @@ function Home() {
       <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4">
         <div className="text-center max-w-2xl mx-auto">
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-12 leading-tight drop-shadow-sm">
-            Candidature – Chargé de Communication – Variegata
+            Candidature – ALTERNANCE – ASSISTANT(E) PROJET ET
+            COMMUNICATION INTERNE - SNCF
           </h1>
 
           <div className="space-y-6">
