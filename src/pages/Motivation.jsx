@@ -11,30 +11,36 @@ function Motivation() {
         </div>
 
         <div className="bg-white rounded-lg shadow-lg p-8 md:p-12">
-          <div className="prose prose-lg max-w-none text-gray-700">
-            <p className="mb-6">
-              Bonjour,
+          <div className="prose prose-lg max-w-none">
+            <p className="text-gray-700 leading-relaxed mb-6">
+            Bonjour à toute l’équipe Variegata
             </p>
 
-            <p className="mb-6">
-              Très curieux, rigoureux et attiré par la communication interne et le travail d'équipe, je suis actuellement en reconversion vers les métiers du numérique et de la gestion de projet via la Digital School. J'ai commencé ce parcours l'an dernier avec une formation au Wagon Bordeaux, et je poursuis aujourd'hui une spécialisation qui mêle outils digitaux, communication et organisation.
+            <p className="text-gray-700 leading-relaxed mb-6">
+            Créatif, curieux et passionné de communication, je suis actuellement en reconversion dans le numérique via la Digital School, avec une forte appétence pour les projets innovants et les contenus bien pensés.
+Cette démarche s’inscrit dans la continuité d’un premier virage amorcé l’an dernier au sein de l'école du Wagon, où j’ai découvert les bases du développement web et des outils digitaux.</p>
+
+
+
+            <p className="text-gray-700 leading-relaxed mb-6">
+            Ce que je cherche aujourd’hui, c’est une alternance humaine, vivante, où je pourrais mêler création de contenu, réseaux sociaux, stratégie de marque et engagement écoresponsable. Votre offre coche toutes les cases. Travailler avec vous, c’est contribuer à un projet qui a du sens, au croisement entre design, bien-être et nature.
             </p>
 
-            <p className="mb-6">
-              Mon parcours est un peu atypique : j'ai travaillé dans le monde de l'art, fondé une galerie à Bordeaux, et j'ai toujours aimé structurer les idées, rendre les contenus clairs et faire avancer les projets. Ce que je recherche aujourd'hui, c'est un environnement concret et bien organisé, où je peux contribuer de façon utile et collective.
+            <p className="text-gray-700 leading-relaxed mb-6">
+            Mon parcours est un peu à part, mais il m’a toujours poussé à créer du lien entre les gens et les projets. Que ce soit à travers ma galerie ou mes expériences dans le digital, j’aime raconter des histoires, mettre en valeur ce qui mérite de l’être, et construire des choses utiles et belles.
             </p>
 
-            <p className="mb-6">
-              L'offre que vous proposez à la Direction Exploitation TGV me parle vraiment : à la fois pour son côté terrain et coordination, et pour les missions liées à la communication. Je serais ravi de participer à vos newsletters, forums métiers ou outils de suivi, et d'apporter mes idées pour rendre tout ça encore plus fluide.
-            </p>
-
-            <p className="mb-6">
-              Je suis disponible dès septembre, pour une alternance de 16 mois. Si mon profil et ma démarche résonnent avec vos besoins, je serais heureux d'en discuter avec vous.
+            <p className="text-gray-700 leading-relaxed mb-6">
+              Ce site interactif vous permet de découvrir en un clic mes expériences, mes projets et ma motivation. Je serais ravi d’en parler plus concrètement avec vous si l’occasion se présente.
             </p>
 
             <div className="mt-8 pt-6 border-t border-gray-200">
-              <p className="mb-2">Bien à vous,</p>
-              <p className="text-gray-900 font-semibold text-lg">Etienne Gaumery</p>
+              <p className="text-gray-700 leading-relaxed mb-2">
+                Bien cordialement,
+              </p>
+              <p className="text-gray-900 font-semibold text-lg">
+                Etienne Gaumery
+              </p>
             </div>
           </div>
         </div>
