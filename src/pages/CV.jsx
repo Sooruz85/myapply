@@ -35,7 +35,7 @@ function CV() {
               Objectif
             </h2>
             <p className="text-gray-600 leading-relaxed">
-              En reconversion vers le développement web et la data, je suis à la recherche d'une alternance pour approfondir mes compétences en IA, machine learning et traitement de données. Curieux, rigoureux et autonome, je souhaite rejoindre une équipe comme celle de DEKRA pour apprendre en construisant des projets utiles, avec des technologies modernes.
+              En reconversion vers le développement web et la data, je suis à la recherche d'une alternance pour intégrer la 2i Academy à la rentrée de septembre. Curieux, rigoureux et autonome, je souhaite approfondir mes compétences en IA, machine learning et traitement de données au sein d’une équipe engagée comme celle de DEKRA.
             </p>
           </section>
 
@@ -79,10 +79,6 @@ function CV() {
             </h2>
             <div className="space-y-3">
               <div className="flex flex-col md:flex-row md:justify-between">
-                <span className="font-medium text-gray-800">2i Academy (2025)</span>
-                <span className="text-gray-600">Alternance Web & Data – en cours</span>
-              </div>
-              <div className="flex flex-col md:flex-row md:justify-between">
                 <span className="font-medium text-gray-800">Le Wagon Bordeaux (2024)</span>
                 <span className="text-gray-600">Bootcamp Développement Web (HTML, CSS, JS, Ruby, SQL)</span>
               </div>
@@ -110,7 +106,7 @@ function CV() {
                   <li>• Supabase, PostgreSQL, Git, GitHub</li>
                   <li>• Notions de Machine Learning & LLMs</li>
                   <li>• Visualisation : Power BI, Recharts</li>
-                  <li>• Déploiement : Docker, CI/CD, Heroku, Vercel</li>
+                  <li>• Déploiement : Heroku, Vercel</li>
                 </ul>
               </div>
               <div>
@@ -149,4 +145,3 @@ function CV() {
 }
 
 export default CV
-
