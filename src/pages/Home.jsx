@@ -27,7 +27,7 @@ function Home() {
       <div className="relative z-10 min-h-screen flex flex-col items-center justify-center px-4">
         <div className="text-center max-w-2xl mx-auto">
           <h1 className="text-3xl md:text-4xl lg:text-5xl font-bold text-gray-900 mb-12 leading-tight drop-shadow-sm">
-            Candidature – Chargé de communication – Alternance - Viaregata
+            Developpeur IA / Data en alternance H/F - Dekra
           </h1>
 
           <div className="space-y-6">
