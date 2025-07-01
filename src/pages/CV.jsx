@@ -29,6 +29,16 @@ function CV() {
         </div>
 
         <div className="space-y-8">
+          {/* Objectif */}
+          <section>
+            <h2 className="text-2xl font-bold text-gray-900 mb-4 border-b-2 border-gray-200 pb-2">
+              Objectif
+            </h2>
+            <p className="text-gray-600 leading-relaxed">
+              En reconversion vers le développement web et la data, je suis à la recherche d'une alternance pour approfondir mes compétences en IA, machine learning et traitement de données. Curieux, rigoureux et autonome, je souhaite rejoindre une équipe comme celle de DEKRA pour apprendre en construisant des projets utiles, avec des technologies modernes.
+            </p>
+          </section>
+
           {/* Expérience */}
           <section>
             <h2 className="text-2xl font-bold text-gray-900 mb-4 border-b-2 border-gray-200 pb-2">
@@ -40,7 +50,7 @@ function CV() {
                   Fondateur – Galerie Joséphine (2019–2025)
                 </h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Création d'une galerie d'art en ligne spécialisée dans les artistes voyageurs. Communication digitale, gestion des réseaux sociaux, storytelling, stratégie marketing, conception web, évaluation d'œuvres et gestion de la relation client.
+                  Création et gestion d'une plateforme de vente d’art en ligne. Développement web, gestion de base de données, communication digitale, analyse des comportements utilisateurs et mise en place d’outils internes pour automatiser les flux.
                 </p>
               </div>
               <div>
@@ -48,7 +58,7 @@ function CV() {
                   Responsable Service Client – Catawiki (2017–2019)
                 </h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Gestion du service client international, traitement des réclamations, amélioration de la satisfaction client via CRM (Zendesk). Soutien logistique et financier.
+                  Gestion des données clients, résolution de litiges, analyse de performances via CRM (Zendesk). Collaboration avec les équipes produit pour améliorer les outils et processus.
                 </p>
               </div>
               <div>
@@ -56,7 +66,7 @@ function CV() {
                   Assistant Maison de Vente – Christie's Paris (2015–2016)
                 </h3>
                 <p className="text-gray-600 leading-relaxed">
-                  Aide aux ventes aux enchères, gestion des ordres d'achat, suivi administratif, rédaction de rapports pour les commissaires-priseurs.
+                  Soutien aux ventes, collecte et structuration de données pour le suivi des enchères, coordination entre les départements et contribution à des tableaux d’analyse post-ventes.
                 </p>
               </div>
             </div>
@@ -69,8 +79,12 @@ function CV() {
             </h2>
             <div className="space-y-3">
               <div className="flex flex-col md:flex-row md:justify-between">
+                <span className="font-medium text-gray-800">2i Academy (2025)</span>
+                <span className="text-gray-600">Alternance Web & Data – en cours</span>
+              </div>
+              <div className="flex flex-col md:flex-row md:justify-between">
                 <span className="font-medium text-gray-800">Le Wagon Bordeaux (2024)</span>
-                <span className="text-gray-600">Bootcamp Développement Web</span>
+                <span className="text-gray-600">Bootcamp Développement Web (HTML, CSS, JS, Ruby, SQL)</span>
               </div>
               <div className="flex flex-col md:flex-row md:justify-between">
                 <span className="font-medium text-gray-800">ICART Paris (2011–2013)</span>
@@ -90,19 +104,22 @@ function CV() {
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
               <div>
-                <h3 className="font-semibold text-gray-800 mb-2">Communication & Marketing</h3>
+                <h3 className="font-semibold text-gray-800 mb-2">Tech & Data</h3>
                 <ul className="text-gray-600 space-y-1">
-                  <li>• Réseaux sociaux (Instagram, LinkedIn)</li>
-                  <li>• Création de contenu (Canva, Figma)</li>
-                  <li>• SEO, newsletters, storytelling</li>
+                  <li>• Python, JavaScript, SQL</li>
+                  <li>• Supabase, PostgreSQL, Git, GitHub</li>
+                  <li>• Notions de Machine Learning & LLMs</li>
+                  <li>• Visualisation : Power BI, Recharts</li>
+                  <li>• Déploiement : Docker, CI/CD, Heroku, Vercel</li>
                 </ul>
               </div>
               <div>
-                <h3 className="font-semibold text-gray-800 mb-2">Technique</h3>
+                <h3 className="font-semibold text-gray-800 mb-2">Soft Skills</h3>
                 <ul className="text-gray-600 space-y-1">
-                  <li>• Next.js, Supabase, Tailwind CSS</li>
-                  <li>• Notion, Zapier</li>
-                  <li>• Français (langue maternelle), Anglais (courant), Espagnol (intermédiaire)</li>
+                  <li>• Curiosité, autonomie, rigueur</li>
+                  <li>• Expérience client / UX</li>
+                  <li>• Bonne capacité d’adaptation</li>
+                  <li>• Langues : Français (natif), Anglais (courant), Espagnol (intermédiaire)</li>
                 </ul>
               </div>
             </div>
