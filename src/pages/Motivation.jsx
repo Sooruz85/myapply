@@ -13,25 +13,23 @@ function Motivation() {
         <div className="bg-white rounded-lg shadow-lg p-8 md:p-12">
           <div className="prose prose-lg max-w-none">
             <p className="text-gray-700 leading-relaxed mb-6">
-            Bonjour à toute l’équipe Variegata
+              Bonjour à toute l’équipe DEKRA,
             </p>
 
             <p className="text-gray-700 leading-relaxed mb-6">
-            Créatif, curieux et passionné de communication, je suis actuellement en reconversion dans le numérique via la Digital School, avec une forte appétence pour les projets innovants et les contenus bien pensés.
-Cette démarche s’inscrit dans la continuité d’un premier virage amorcé l’an dernier au sein de l'école du Wagon, où j’ai découvert les bases du développement web et des outils digitaux.</p>
-
-
-
-            <p className="text-gray-700 leading-relaxed mb-6">
-            Ce que je cherche aujourd’hui, c’est une alternance humaine, vivante, où je pourrais mêler création de contenu, réseaux sociaux, stratégie de marque et engagement écoresponsable. Votre offre coche toutes les cases. Travailler avec vous, c’est contribuer à un projet qui a du sens, au croisement entre design, bien-être et nature.
+              En reconversion dans le numérique via la 2i Academy, je me spécialise aujourd’hui dans le développement web, avec un vrai attrait pour les projets liés à la data et à l’intelligence artificielle. Cette transition s’inscrit dans la continuité d’un premier virage amorcé l’an dernier avec une formation intensive au Wagon Bordeaux, où j’ai découvert le plaisir de coder, de comprendre comment les outils fonctionnent et de construire des solutions concrètes.
             </p>
 
             <p className="text-gray-700 leading-relaxed mb-6">
-            Mon parcours est un peu à part, mais il m’a toujours poussé à créer du lien entre les gens et les projets. Que ce soit à travers ma galerie ou mes expériences dans le digital, j’aime raconter des histoires, mettre en valeur ce qui mérite de l’être, et construire des choses utiles et belles.
+              Ce que je cherche aujourd’hui, c’est une alternance stimulante, où je pourrais apprendre, expérimenter et contribuer à des projets utiles, entouré d’une équipe bienveillante. L’offre que vous proposez coche toutes les cases : des sujets passionnants, une vraie dynamique d’équipe, et la possibilité de monter en compétences sur des technos que j’ai hâte de mieux maîtriser (Python, IA, visualisation, cloud…).
             </p>
 
             <p className="text-gray-700 leading-relaxed mb-6">
-              Ce site interactif vous permet de découvrir en un clic mes expériences, mes projets et ma motivation. Je serais ravi d’en parler plus concrètement avec vous si l’occasion se présente.
+              Mon parcours est un peu atypique, mais il m’a toujours amené à gérer des projets, à m’adapter et à apprendre vite. Que ce soit dans l’art, le digital ou le développement, j’aime creuser, documenter, tester, et construire des choses utiles et bien pensées.
+            </p>
+
+            <p className="text-gray-700 leading-relaxed mb-6">
+              Ce site interactif vous permet de découvrir en un clic mon parcours, mes projets et ma motivation. Je serais ravi d’échanger avec vous si l’occasion se présente.
             </p>
 
             <div className="mt-8 pt-6 border-t border-gray-200">
